@@ -1,10 +1,13 @@
 # Alphabet Recognition in Real Time
-This python application recognizes alphabet from real time webcam data. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
+This deep learning application in python recognizes alphabet from real time webcam data. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
+
+## Working Example
+<img src="https://github.com/akshaychandra111/Alphabet_Recognition_RealTime/blob/master/demo.gif">
 
 ## Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
 
-## Description
+## Data Description
 A popular demonstration of the capability of deep learning techniques is object recognition in image data.
 
 The "Extended Hello World" of object recognition for machine learning and deep learning is the [EMNIST dataset](https://www.kaggle.com/crawford/emnist) for handwritten letters recognition. It is an extended version of the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset.
@@ -26,8 +29,8 @@ The Test accuracies were as follows:
 
 For both the models, I actually used the exact same architectures I implemented in the [Digits Recognition](https://github.com/akshaychandra111/Digits_Recognition_RealTime) project (for obvious 'extended' reasons).
 
-## Working Example
-<img src="https://github.com/akshaychandra111/Alphabet_Recognition_RealTime/blob/master/demo.gif">
+## Code Explanation
+I have written [a tutorial post on medium](https://medium.com/@akshaychandra21/97e697b8fb86) explaining the code.
 
 ## Execution
 Order of Execution is as follows:
