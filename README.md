@@ -1,4 +1,4 @@
-# Alphabet Recognition in Real Time
+# Alphabet Recognition in Real Time [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
 This deep learning application in python recognizes alphabet from real time webcam data. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
 
 ## Working Example
