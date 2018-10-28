@@ -1,8 +1,8 @@
-# Alphabet Recognition in Real Time [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
-This deep learning application in python recognizes alphabet from real time webcam data. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
+# Alphabet Recognition From Gestures [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
+This deep learning application in python recognizes alphabet from gestures captured real time on a webcam. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
 
 ## Working Example
-<img src="https://github.com/akshaychandra111/Alphabet_Recognition_RealTime/blob/master/demo.gif">
+<img src="demo.gif">
 
 ## Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
