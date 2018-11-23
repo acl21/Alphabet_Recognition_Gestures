@@ -5,7 +5,7 @@ This deep learning application in python recognizes alphabet through gestures ca
 <img src="demo.gif">
 
 ## Code Requirements
-The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
+The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras (2.1.4 version) libraries.
 
 ## Data Description
 A popular demonstration of the capability of deep learning techniques is object recognition in image data.
