@@ -1,6 +1,6 @@
-# Alphabet Recognition Through Gestures [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
+### [UPDATE]: I will not be responding to issues or emails related to this repo anymore as I am currently occupied with other research commitments. Also, the libraries used are pretty old and outdated. Thank you.
 
-[UPDATE]: I will not be looking into issues or emails related to this repo anymore as I am currently very busy with other research commitments. Thank you.
+# Alphabet Recognition Through Gestures [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
 
 This deep learning application in python recognizes alphabet through gestures captured real time on a webcam. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
 
